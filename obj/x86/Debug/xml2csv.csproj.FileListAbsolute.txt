@@ -1,0 +1,7 @@
+C:\Documents and Settings\ncolyer\Desktop\Tools & installs\xmltocsv\xml2csv\xml2csv\bin\Debug\xml2csv.exe
+C:\Documents and Settings\ncolyer\Desktop\Tools & installs\xmltocsv\xml2csv\xml2csv\bin\Debug\xml2csv.pdb
+C:\Documents and Settings\ncolyer\Desktop\Tools & installs\xmltocsv\xml2csv\xml2csv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ncolyer\Desktop\Tools & installs\xmltocsv\xml2csv\xml2csv\obj\x86\Debug\xml2csv.exe
+C:\Documents and Settings\ncolyer\Desktop\Tools & installs\xmltocsv\xml2csv\xml2csv\obj\x86\Debug\xml2csv.pdb
+C:\auto\utilities\xml2csv\xml2csv\obj\x86\Debug\xml2csv.exe
+C:\auto\utilities\xml2csv\xml2csv\obj\x86\Debug\xml2csv.pdb
